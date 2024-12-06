@@ -9,7 +9,7 @@
 
 &nbsp;&nbsp;👉 It is important to remark that all operation you are going to do, are just temporal operations and whe you refresh the navigator web page, everything is going to restore as default coded in script. This is just a JavaScript code, on local development and at the momento I didn't do nothing on external server. I'm still learning 🤣🤣😅😅
 
-&nbsp;&nbsp;👉 All script is commented to can understand step by step the code and to can run it, just clone or download the zip folder of the repository and open it with your favorite IDE, then finally execute the html with live server and enjoy trying this JavaScript web app; or you can click on the Netlify web link to use it directly on your browser:<a target="_blank" href="" ><b></b>
+&nbsp;&nbsp;👉 All script is commented to can understand step by step the code and to can run it, just clone or download the zip folder of the repository and open it with your favorite IDE, then finally execute the html with live server and enjoy trying this JavaScript web app; or you can click on the Netlify web link to use it directly on your browser:<a target="_blank" href="https://saint-bank-app-vlaicu.netlify.app/" ><b>https://saint-bank-app-vlaicu.netlify.app/</b>
 </a>
 
 &nbsp;&nbsp;👉 User and passwords to try the web app:
